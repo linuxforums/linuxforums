@@ -2,7 +2,8 @@
 <h3 align="center">A passionate developer</h3>
 
 - Reach me via **d4ve@onionmail.org**
-- Previous flicOS dev / founder and blackbyte dev
+- Previous flickOS dev / founder and blackbyteOS dev
+- Screw AI dev
 
 ```console
 linuxforums@github:~$ neofetch
