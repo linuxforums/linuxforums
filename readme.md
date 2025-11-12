@@ -1,9 +1,13 @@
+
 <h1 align="center">Hi 👋, I'm dave</h1>
 <h3 align="center">A passionate developer</h3>
 
 - Reach me via **d4ve@onionmail.org**
 - Previous flickOS dev / founder and blackbyteOS dev
 - Screw AI dev
+
+
+![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
 ```console
 linuxforums@github:~$ neofetch
