@@ -154,7 +154,7 @@ Interests: Cyber sec and dev
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/linuxforums/linuxforums/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=linuxforums&theme=radical&hide_border=true&area=true" alt="Contribution graph" />
 </div>
 
 ---
