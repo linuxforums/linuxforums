@@ -19,25 +19,36 @@ linuxforums@github:~$ neofetch
 ```
 
 ```
-      /\
-     /  \
-    /    \
-   /      \
-  /   ,,   \
- /   |  |   \
-/_-''    ''-_\
+⡋⣡⣴⣶⣶⡀⠄⠄⠙⢿⣿⣿⣿⣿⣿⣴⣿⣿⣿⢃⣤⣄⣀⣥⣿
+⢸⣇⠻⣿⣿⣿⣧⣀⢀⣠⡌⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠿⣿⣿
+⢸⣿⣷⣤⣤⣤⣬⣙⣛⢿⣿⣿⣿⣿⣿⣿⡿⣿⣿⡍⠄⠄⢀⣤⣄⠉
+⣖⣿⣿⣿⣿⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⢇⣿⣿⡷⠶⠶⢿⣿⣿⠇⢀
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣽⣿⣿⣿⡇⣿⣿⣿⣿⣿⣿⣷⣶⣥⣴
+⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣦⣌⣛⣻⣿⣿⣧⠙⠛⠛⡭⠅⠒⠦⠭⣭⡻⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⠄
+⣿⣿⣿⣿⣿⣿⣿⡆⠄⠄⠄⠄⠄⠄⠄⠄⠹⠈⢋⣽⣿⣿⣿⣿⣵⣾
+⣿⣿⣿⣿⣿⣿⣿⣿⠄⣴⣿⣶⣄⠄⣴⣶⠄⢀⣾⣿⣿⣿⣿⣿⣿⠃⠄⠄
+⠈⠻⣿⣿⣿⣿⣿⣿⡄⢻⣿⣿⣿⠄⣿⣿⡀⣾⣿⣿⣿⣿⣛⠛⠁
+⠄⠄⠈⠛⢿⣿⣿⣿⠁⠞⢿⣿⣿⡄⢿⣿⡇⣸⣿⣿⠿⠛⠁⠄
+⠄⠄⠄⠄⠄⠉⠻⣿⣿⣾⣦⡙⠻⣷⣾⣿⠃⠿⠋⠁⠄
 ```
 
 ```csharp
-linuxforums@github
--------------------------
-OS: Arch Linux x86_64
-Shell: zsh 5.8
-Pronouns: He/Him
-Location: Germany, DE
-Learning: Rust and other
-Hobbies: Gaming, Coding
-Interests: Cyber sec and dev
+                                                                      
+                                                                      
+                                                                      
+                            linuxforums@github                        
+                /\          -------------------------                 
+               /  \         OS: Arch Linux x86_64                     
+              /    \        Shell: zsh 5.8                            
+             /      \       Pronouns: He/Him                          
+            /   ,,   \      Location: Germany, DE                     
+           /   |  |   \     Learning: Rust and other                  
+          /_-''    ''-_\    Hobbies: Gaming, Coding                   
+                            Interests: Cyber sec and dev              
+                                                                      
+                                                                      
+                                                                      
 ```
 
 ---
