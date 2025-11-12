@@ -33,10 +33,7 @@ linuxforums@github:~$ neofetch
 ⠄⠄⠄⠄⠄⠉⠻⣿⣿⣾⣦⡙⠻⣷⣾⣿⠃⠿⠋⠁⠄
 ```
 
-```csharp
-                                                                      
-                                                                      
-                                                                      
+```csharp                      
                             linuxforums@github                        
                 /\          -------------------------                 
                /  \         OS: Arch Linux x86_64                     
@@ -46,9 +43,7 @@ linuxforums@github:~$ neofetch
            /   |  |   \     Learning: Rust and other                  
           /_-''    ''-_\    Hobbies: Gaming, Coding                   
                             Interests: Cyber sec and dev              
-                                                                      
-                                                                      
-                                                                      
+
 ```
 
 ---
